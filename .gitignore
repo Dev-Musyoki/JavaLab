@@ -1,0 +1,7 @@
+# Java compiler output
+*.class
+bin/
+
+# IDE metadata
+.vscode/
+.idea/
